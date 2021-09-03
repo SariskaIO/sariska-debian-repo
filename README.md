@@ -1,3 +1,5 @@
+Modified version of jibri
+
 curl -s --compressed "https://sariskaio.github.io/sariska-debian-repo/KEY.gpg" | sudo apt-key add -
 
 
@@ -5,3 +7,8 @@ sudo curl -SsL -o /etc/apt/sources.list.d/sariska.list https://sariskaio.github.
 
 
 sudo apt update
+
+
+sudo apt install jibri
+
+
