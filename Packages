@@ -1,0 +1,16 @@
+Package: jibri
+Version: 8.0-XMPP-JIBRI-BASE-URL-0-gd34f2a4-1
+Architecture: all
+Maintainer: dev@jitsi.org
+Installed-Size: 48277
+Depends: default-jre-headless | java8-runtime-headless | java8-runtime, ffmpeg, curl, alsa-utils, icewm, xdotool, xserver-xorg-input-void, xserver-xorg-video-dummy, procps
+Filename: ./jibri_8.0-XMPP-JIBRI-BASE-URL-0-gd34f2a4-1_all.deb
+Size: 44805684
+MD5sum: eb8cf79b3ad903114325951562c398d9
+SHA1: e3f8e2af698950e2c28c2dbdaa364396b20f5008
+SHA256: a42da1ad744833d34f633a52666c685620f09ad759e4534d2f4ddb7c2d8b12ea
+Section: net
+Priority: optional
+Description: Jibri
+ Jibri can be used to capture data from a Jitsi Meet conference and record it to a file or stream it to a url
+
