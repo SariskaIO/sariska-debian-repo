@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 05 Sep 2021 10:10:07 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1) unstable; urgency=medium
+ .
+   [ brian ]
+   * Initial release. (Closes: #XXXXXX)
+ .
+   [ Ubuntu ]
+   * Built from git. 7f6dfe1
+Checksums-Sha1:
+ f3d3f609237e240d0809f3de226b8039f8e2aecd 5301 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.buildinfo
+ 99ba3ab197592e611ac6c184ff95b3d94c23cf45 472820 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
+Checksums-Sha256:
+ 6d288848572edfa19b95d2d10a3135d0cd8c7a582ca62bd2cf36c36cbd1849e2 5301 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.buildinfo
+ 9fd53c5942f021546775ac555520798048632e182a3bcac93a6f829a17a37799 472820 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
+Files:
+ 7a92d84d058c71e17c09ddf1a7c9c95c 5301 net optional jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.buildinfo
+ 0fabd8520ea85facbea02aec7484e1de 472820 net optional jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
