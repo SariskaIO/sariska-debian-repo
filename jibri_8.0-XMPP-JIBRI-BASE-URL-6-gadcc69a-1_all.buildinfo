@@ -2,16 +2,16 @@ Format: 1.0
 Source: jibri
 Binary: jibri
 Architecture: all
-Version: 8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1
+Version: 8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1
 Checksums-Md5:
- 0fabd8520ea85facbea02aec7484e1de 472820 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
+ a0eb55a6e1ae073ac6fc5d6a4fe80f82 472996 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
 Checksums-Sha1:
- 99ba3ab197592e611ac6c184ff95b3d94c23cf45 472820 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
+ e94b1e7e6a9b1df526af51eda6190aef5a43a548 472996 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
 Checksums-Sha256:
- 9fd53c5942f021546775ac555520798048632e182a3bcac93a6f829a17a37799 472820 jibri_8.0-XMPP-JIBRI-BASE-URL-4-g7f6dfe1-1_all.deb
+ 8919abaf5919d90112587109451e5a416711c977a29d8ade4e1ca70e09bd95d2 472996 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 05 Sep 2021 10:10:09 +0000
+Build-Date: Sun, 05 Sep 2021 11:48:59 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -164,4 +164,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=2"
  LANG="C.UTF-8"
  LC_CTYPE="C.UTF-8"
- SOURCE_DATE_EPOCH="1630836607"
+ SOURCE_DATE_EPOCH="1630842537"

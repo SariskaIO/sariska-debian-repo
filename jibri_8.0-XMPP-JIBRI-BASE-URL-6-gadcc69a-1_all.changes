@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 05 Sep 2021 11:48:57 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1) unstable; urgency=medium
+ .
+   * Built from git. adcc69a
+Checksums-Sha1:
+ 8f3a8a261cec77ef24931e6de646238ed0097bed 5301 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.buildinfo
+ e94b1e7e6a9b1df526af51eda6190aef5a43a548 472996 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
+Checksums-Sha256:
+ 9c03891aa2f0201ab4ad1b685735adc5ceb8b0ee279a3b9794f4ea941cc3fd41 5301 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.buildinfo
+ 8919abaf5919d90112587109451e5a416711c977a29d8ade4e1ca70e09bd95d2 472996 jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
+Files:
+ c70b05048f819fdd2f05f868704e080b 5301 net optional jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.buildinfo
+ a0eb55a6e1ae073ac6fc5d6a4fe80f82 472996 net optional jibri_8.0-XMPP-JIBRI-BASE-URL-6-gadcc69a-1_all.deb
