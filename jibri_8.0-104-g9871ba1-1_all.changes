@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 08 Sep 2021 10:55:45 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-104-g9871ba1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-104-g9871ba1-1) unstable; urgency=medium
+ .
+   * Built from git. 9871ba1
+Checksums-Sha1:
+ 6696a7ec8210bcfe38d91309399a7840d3e0b84b 5235 jibri_8.0-104-g9871ba1-1_all.buildinfo
+ 74c54bfe818638ac4bc52bceef37cc23f0e3bda5 44799952 jibri_8.0-104-g9871ba1-1_all.deb
+Checksums-Sha256:
+ 7edcd3bcbb6d1cd82b5cf63230c7fa0c4826868b024ea4db69dc905ed6f765f2 5235 jibri_8.0-104-g9871ba1-1_all.buildinfo
+ 05c0ab07f1e407dcfc03405cb54b95e5ecd99a2ebdb684914a517c70d94258ed 44799952 jibri_8.0-104-g9871ba1-1_all.deb
+Files:
+ bd1c23d07ce7f3a3f6e524db29d6eef7 5235 net optional jibri_8.0-104-g9871ba1-1_all.buildinfo
+ 86cbbfee4d269ae43e694e468bb314a8 44799952 net optional jibri_8.0-104-g9871ba1-1_all.deb

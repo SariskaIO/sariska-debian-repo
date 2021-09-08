@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 08 Sep 2021 11:00:37 +0000
+MD5Sum:
+ e6187cfd12719c75b280bc73953f6fd9              664 Packages
+ 3e9d622dcec15c5d165b6583e248b670              467 Packages.gz
+ 0cf2dec75598d92c93b8ca0d00b5f921               38 Release
+SHA1:
+ 1d4ed6cbd91ab7f4d47a0dd4176b9bdb36d20eb0              664 Packages
+ dd03662bcfc7bf1efe9ace50a5eac0ca29f15545              467 Packages.gz
+ f85fb59a369765fba374837d1a23f57fb7e3ba51               38 Release
+SHA256:
+ 302fdd3397f2296e64b502896f65a599e598d390035315eb7972c5533d044e51              664 Packages
+ abb1baa7677cdf1158dfe7f664ae13ec14625eff6f1068c6909be58cf980479c              467 Packages.gz
+ da4cca1ae491387683271102d40f04ad7058cb9144b1a68c8ad060ef73d86ef0               38 Release
+SHA512:
+ 2bd6a938b8395dbb13441db44c90f0ca27ad21bddb1096f3d01bd0eed4f69a50bf8e958c95c1de9d2dacb397304d9326f2533006dd45478834401bdf32935020              664 Packages
+ fed30722e47389e5e0f17f35ffb83945941e9335524502b15a8952a08cb34dd51c81d31a978bd6571017f7f3fecb46437c1626ece86428e7bfa5e7d23b06dbbd              467 Packages.gz
+ 318e9c8898ed2da27f1c316e63d0a60a0cfec71287b09140ec89225f018b60900ac48903bb6677c3e7b9afb354ec2241907506bf424b9670f733cb3ca46acbba               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE+7ATLAKJEEiLd6BbM0w+pGEEFt0FAmE4l/sACgkQM0w+pGEE
+Ft1oTQv+MQqi5ZBhLljxgqbQycRhaYNz/adhf9DNP4GkR4CZWlrAIBPU5p0cYnM7
+1u1WnNRqgONhmztf1Vykf8kPJfXu8US+MeebAzbjKa5iE98QfFw/fHiQgnWWXDud
+5vnYwEo+AoR9e8X6D/wc3WwQmBNo6I6Da7pSlYQrPH6N9NVyiFHw0w1YdS/QaFk1
+W0z6gmpGu0DegJu3lINQdiqErzcmi/r/rAcqaPMgMAMzF/KTjixG0rH8lOhE/8+G
+5ob9NhmEJDn7pD1FDqX7M5e7WywXi4ksaXdQaxo+OahSfcxR6XR6mkyFNGg+errh
+gpF8t4t/ewCAHASEEuucRCv5wTzDDO5NJSElBI2zO8ilSk/AIvps77vLXHU33ogw
+AOGh7w5iHBRiKL+indFm8RJw5CpV5dVGeQ1/qvlmVk5XyAigAguFjDZYjm+UVLUe
+qkRpiRXAqnuSRrO8VO4TpZ7LnT0hZtmL2A96MjcmEOnqEuacU/ouHIMHM+FfqesA
+TNjNhMGL
+=dyAl
+-----END PGP SIGNATURE-----
