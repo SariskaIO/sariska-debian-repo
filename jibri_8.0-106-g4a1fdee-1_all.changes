@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Sat, 11 Sep 2021 17:01:05 +0000
+Date: Sat, 11 Sep 2021 20:20:15 +0000
 Source: jibri
 Binary: jibri
 Architecture: all
@@ -15,11 +15,11 @@ Changes:
  .
    * Built from git. 4a1fdee
 Checksums-Sha1:
- 1dc4df3ba945fec83819997d9d99085a05209722 5235 jibri_8.0-106-g4a1fdee-1_all.buildinfo
- 0bb0e0121eecff887f96f84361c7fa554303fbf1 44802864 jibri_8.0-106-g4a1fdee-1_all.deb
+ acbd8b0539e088f1d023972b3dbce8b10c275eca 5235 jibri_8.0-106-g4a1fdee-1_all.buildinfo
+ c4f5e41098afa403c5af2c4adc919f105de6a778 44803340 jibri_8.0-106-g4a1fdee-1_all.deb
 Checksums-Sha256:
- 7325e16f78efea1de851b6a33336ee4e3dd99fd4efee4e9e63f28ea993871bda 5235 jibri_8.0-106-g4a1fdee-1_all.buildinfo
- 530c7c418b51b5f2ccbe9bea34b3bf76113ad17a8d0ee4881e9a9c014481dc66 44802864 jibri_8.0-106-g4a1fdee-1_all.deb
+ 56e89e0381df3ffc71ea969f153663196714dc9f64f3efea7aee7a523bffb989 5235 jibri_8.0-106-g4a1fdee-1_all.buildinfo
+ 7536ba26fd2bf9626de1d9c8288c48331ddc0d471a3b3b8cc1f84c228cc641c1 44803340 jibri_8.0-106-g4a1fdee-1_all.deb
 Files:
- a50ab7fb8eb5b2a1aff89ed38874a9f7 5235 net optional jibri_8.0-106-g4a1fdee-1_all.buildinfo
- abbabea1444183896f68d11626d021a0 44802864 net optional jibri_8.0-106-g4a1fdee-1_all.deb
+ 4d7b804875cfe0512915595312a3902c 5235 net optional jibri_8.0-106-g4a1fdee-1_all.buildinfo
+ e53e6ac77e7f2752a10907965646a3a2 44803340 net optional jibri_8.0-106-g4a1fdee-1_all.deb

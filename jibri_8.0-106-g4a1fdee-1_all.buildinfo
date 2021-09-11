@@ -4,14 +4,14 @@ Binary: jibri
 Architecture: all
 Version: 8.0-106-g4a1fdee-1
 Checksums-Md5:
- abbabea1444183896f68d11626d021a0 44802864 jibri_8.0-106-g4a1fdee-1_all.deb
+ e53e6ac77e7f2752a10907965646a3a2 44803340 jibri_8.0-106-g4a1fdee-1_all.deb
 Checksums-Sha1:
- 0bb0e0121eecff887f96f84361c7fa554303fbf1 44802864 jibri_8.0-106-g4a1fdee-1_all.deb
+ c4f5e41098afa403c5af2c4adc919f105de6a778 44803340 jibri_8.0-106-g4a1fdee-1_all.deb
 Checksums-Sha256:
- 530c7c418b51b5f2ccbe9bea34b3bf76113ad17a8d0ee4881e9a9c014481dc66 44802864 jibri_8.0-106-g4a1fdee-1_all.deb
+ 7536ba26fd2bf9626de1d9c8288c48331ddc0d471a3b3b8cc1f84c228cc641c1 44803340 jibri_8.0-106-g4a1fdee-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 11 Sep 2021 17:01:18 +0000
+Build-Date: Sat, 11 Sep 2021 20:20:28 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -164,4 +164,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=2"
  LANG="C.UTF-8"
  LC_CTYPE="C.UTF-8"
- SOURCE_DATE_EPOCH="1631379665"
+ SOURCE_DATE_EPOCH="1631391615"
