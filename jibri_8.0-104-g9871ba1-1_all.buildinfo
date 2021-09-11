@@ -4,14 +4,14 @@ Binary: jibri
 Architecture: all
 Version: 8.0-104-g9871ba1-1
 Checksums-Md5:
- 86cbbfee4d269ae43e694e468bb314a8 44799952 jibri_8.0-104-g9871ba1-1_all.deb
+ 47f4b6ea3b5a10395a82c7572e3420fc 44801092 jibri_8.0-104-g9871ba1-1_all.deb
 Checksums-Sha1:
- 74c54bfe818638ac4bc52bceef37cc23f0e3bda5 44799952 jibri_8.0-104-g9871ba1-1_all.deb
+ 735f769f7e88f31954e57b5f00689db428dc779f 44801092 jibri_8.0-104-g9871ba1-1_all.deb
 Checksums-Sha256:
- 05c0ab07f1e407dcfc03405cb54b95e5ecd99a2ebdb684914a517c70d94258ed 44799952 jibri_8.0-104-g9871ba1-1_all.deb
+ 5b197fbba7279b05caecdece19c95c2923d3dd9456d764997570e9e7c3d9c66c 44801092 jibri_8.0-104-g9871ba1-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 08 Sep 2021 10:55:59 +0000
+Build-Date: Sat, 11 Sep 2021 11:12:30 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -137,7 +137,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.34-0.1ubuntu9.1),
  libxml2 (= 2.9.10+dfsg-5ubuntu0.20.04.1),
  libzstd1 (= 1.4.4+dfsg-3ubuntu0.1),
- linux-libc-dev (= 5.4.0-81.91),
+ linux-libc-dev (= 5.4.0-84.94),
  login (= 1:4.8.1-1ubuntu5.20.04),
  lsb-base (= 11.1.0ubuntu2),
  m4 (= 1.4.18-4),
@@ -164,4 +164,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=2"
  LANG="C.UTF-8"
  LC_CTYPE="C.UTF-8"
- SOURCE_DATE_EPOCH="1631098545"
+ SOURCE_DATE_EPOCH="1631358737"
