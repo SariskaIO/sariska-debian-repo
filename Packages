@@ -5,10 +5,10 @@ Maintainer: dev@jitsi.org
 Installed-Size: 48274
 Depends: default-jre-headless | java8-runtime-headless | java8-runtime, ffmpeg, curl, alsa-utils, icewm, xdotool, xserver-xorg-input-void, xserver-xorg-video-dummy, procps
 Filename: ./jibri_8.0-106-g4a1fdee-1_all.deb
-Size: 44803340
-MD5sum: e53e6ac77e7f2752a10907965646a3a2
-SHA1: c4f5e41098afa403c5af2c4adc919f105de6a778
-SHA256: 7536ba26fd2bf9626de1d9c8288c48331ddc0d471a3b3b8cc1f84c228cc641c1
+Size: 44803260
+MD5sum: 7f3990dc87bcd7a1d5521d80600be1ab
+SHA1: 8ed9e2b187d33ca99908b16742571449fa2009b7
+SHA256: fba0d7f16065adb7ea8af81678b9412a85c14c6d31ff801b09c2bf330b1271ca
 Section: net
 Priority: optional
 Description: Jibri
