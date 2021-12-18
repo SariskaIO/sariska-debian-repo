@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 18 Dec 2021 14:02:27 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-121-gaf3b2d0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-121-gaf3b2d0-1) unstable; urgency=medium
+ .
+   * Built from git. af3b2d0
+Checksums-Sha1:
+ 7b462a4de6e80f85af69199aac0d8dfa96b4a0f8 5261 jibri_8.0-121-gaf3b2d0-1_all.buildinfo
+ 307ab6205569976e495e3aea1493f558d483f20c 44660716 jibri_8.0-121-gaf3b2d0-1_all.deb
+Checksums-Sha256:
+ 01ceaa8df88f301200f8c438b85b7f87f6b5135d1f1e881cac00ac60d926fec5 5261 jibri_8.0-121-gaf3b2d0-1_all.buildinfo
+ 35c0ba883db908b2ec2e647ec7ca357bc12ab9adc6c9e943a45856bb7e948060 44660716 jibri_8.0-121-gaf3b2d0-1_all.deb
+Files:
+ 23ce07d92b1ad2b33518754d64a52ccf 5261 net optional jibri_8.0-121-gaf3b2d0-1_all.buildinfo
+ 4d3a75085c4645ea771cd7a9e3b62eec 44660716 net optional jibri_8.0-121-gaf3b2d0-1_all.deb
