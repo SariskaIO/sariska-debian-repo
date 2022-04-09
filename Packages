@@ -1,14 +1,14 @@
 Package: jibri
-Version: 8.0-133-gae53dc6-1
+Version: 8.0-147-gbeaccd9-1
 Architecture: all
 Maintainer: dev@jitsi.org
-Installed-Size: 48134
+Installed-Size: 48197
 Depends: default-jre-headless | java8-runtime-headless | java8-runtime, ffmpeg, curl, alsa-utils, icewm, xdotool, xserver-xorg-video-dummy, procps, ruby-hocon
-Filename: ./jibri_8.0-133-gae53dc6-1_all.deb
-Size: 44673316
-MD5sum: f995e99749997190acdda20e941c53d2
-SHA1: 9c56945b4aed7989e9f943cb8b11e4196b65f75c
-SHA256: 27c20fdd24bc86fa2fbe03ab7a746f4654cc201c72cce45c8abb4d3a2018bb96
+Filename: ./jibri_8.0-147-gbeaccd9-1_all.deb
+Size: 44730260
+MD5sum: 86e181b5a132ce00bcc80d457f554ecc
+SHA1: 14f175aebc0ba24be717d19767146248f3adf19b
+SHA256: f4a9514b6814feeaf58d522ace38e9c98e188133bb42a8ed84e4d4b086868b8d
 Section: net
 Priority: optional
 Description: Jibri
