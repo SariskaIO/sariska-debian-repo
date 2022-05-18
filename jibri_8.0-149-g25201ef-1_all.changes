@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 18 May 2022 05:58:52 +0000
+Date: Wed, 18 May 2022 14:57:44 +0000
 Source: jibri
 Binary: jibri
 Architecture: all
@@ -15,11 +15,11 @@ Changes:
  .
    * Built from git. 25201ef
 Checksums-Sha1:
- b3eca8cd56a309622b4469ee212dd9867baa5eff 5278 jibri_8.0-149-g25201ef-1_all.buildinfo
- c4c93742b0cc10c9677703adbf2674423caf002f 44728280 jibri_8.0-149-g25201ef-1_all.deb
+ 298bea332680f2480550e1e841e99b707a5caad7 5278 jibri_8.0-149-g25201ef-1_all.buildinfo
+ d29e0be22b2e138b4bda0b429734676c01165570 44728520 jibri_8.0-149-g25201ef-1_all.deb
 Checksums-Sha256:
- 8044c62149823dd4f1867e9b57ba4472403f8ace5b2cf0d9f2b0ef4a17739ab8 5278 jibri_8.0-149-g25201ef-1_all.buildinfo
- bfaf97f7f57128d2ac2bb887907eb8f191bfe57d1e8774849bb87ce648478799 44728280 jibri_8.0-149-g25201ef-1_all.deb
+ 517777b62309333a3b0bf231c7d7891ab32d01a0e7d197e90e8d2d339d852a8e 5278 jibri_8.0-149-g25201ef-1_all.buildinfo
+ 1eaee9a1d42e7bf5c64f260dc3e79d0675f4ebddb517de33b660c1c283525c0d 44728520 jibri_8.0-149-g25201ef-1_all.deb
 Files:
- 11a9b81927330dc87d6202d44641bef1 5278 net optional jibri_8.0-149-g25201ef-1_all.buildinfo
- 0d7799e6a0641e8bce9e2d0c2219ed0f 44728280 net optional jibri_8.0-149-g25201ef-1_all.deb
+ 753b65dfbbe2d3f92f503ea289363226 5278 net optional jibri_8.0-149-g25201ef-1_all.buildinfo
+ 1a6276d4f5f99e74e2954144dc8c1878 44728520 net optional jibri_8.0-149-g25201ef-1_all.deb
