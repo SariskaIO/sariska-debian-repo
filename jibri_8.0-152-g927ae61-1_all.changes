@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 18 May 2022 21:34:26 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-152-g927ae61-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-152-g927ae61-1) unstable; urgency=medium
+ .
+   * Built from git. 927ae61
+Checksums-Sha1:
+ a4502eba10443ddbc6e4286fd906ccabd6af0180 5278 jibri_8.0-152-g927ae61-1_all.buildinfo
+ 2999deb1991f67f3ef93a4c3d6cbbbf0b734e203 44729268 jibri_8.0-152-g927ae61-1_all.deb
+Checksums-Sha256:
+ 2bfdd45ed4dc2827b8f96377f252e3546d20e8547dab1ce5bfc294c87472d3cf 5278 jibri_8.0-152-g927ae61-1_all.buildinfo
+ fc5a89b232d830e63b5bf0d1258193916913ee1dfa55c80a9b12c3919cf7c093 44729268 jibri_8.0-152-g927ae61-1_all.deb
+Files:
+ 66134195b1eb9e79c1f963bd7cc7ff34 5278 net optional jibri_8.0-152-g927ae61-1_all.buildinfo
+ 9aacb3d9eb4adf4b0bce7b9e8cc7f3e1 44729268 net optional jibri_8.0-152-g927ae61-1_all.deb

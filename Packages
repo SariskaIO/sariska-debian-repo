@@ -78,3 +78,19 @@ Priority: optional
 Description: Jibri
  Jibri can be used to capture data from a Jitsi Meet conference and record it to a file or stream it to a url
 
+Package: jibri
+Version: 8.0-152-g927ae61-1
+Architecture: all
+Maintainer: dev@jitsi.org
+Installed-Size: 48196
+Depends: default-jre-headless | java8-runtime-headless | java8-runtime, ffmpeg, curl, alsa-utils, icewm, xdotool, xserver-xorg-video-dummy, procps, ruby-hocon
+Filename: ./jibri_8.0-152-g927ae61-1_all.deb
+Size: 44729268
+MD5sum: 9aacb3d9eb4adf4b0bce7b9e8cc7f3e1
+SHA1: 2999deb1991f67f3ef93a4c3d6cbbbf0b734e203
+SHA256: fc5a89b232d830e63b5bf0d1258193916913ee1dfa55c80a9b12c3919cf7c093
+Section: net
+Priority: optional
+Description: Jibri
+ Jibri can be used to capture data from a Jitsi Meet conference and record it to a file or stream it to a url
+
