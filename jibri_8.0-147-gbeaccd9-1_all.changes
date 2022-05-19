@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 09 Apr 2022 15:28:58 +0000
+Source: jibri
+Binary: jibri
+Architecture: all
+Version: 8.0-147-gbeaccd9-1
+Distribution: unstable
+Urgency: medium
+Maintainer: dev@jitsi.org
+Changed-By: Ubuntu <ubuntu@ip-172-31-26-58.ec2.internal>
+Description:
+ jibri      - Jibri
+Changes:
+ jibri (8.0-147-gbeaccd9-1) unstable; urgency=medium
+ .
+   * Built from git. beaccd9
+Checksums-Sha1:
+ 7ab5bec8a532b4499fa64c5763d7290b36c1fbb2 5272 jibri_8.0-147-gbeaccd9-1_all.buildinfo
+ 14f175aebc0ba24be717d19767146248f3adf19b 44730260 jibri_8.0-147-gbeaccd9-1_all.deb
+Checksums-Sha256:
+ 69da9ff49d9d6ade731a29316e4dfa5a195d93ab3b4b400dbde0709b14f91690 5272 jibri_8.0-147-gbeaccd9-1_all.buildinfo
+ f4a9514b6814feeaf58d522ace38e9c98e188133bb42a8ed84e4d4b086868b8d 44730260 jibri_8.0-147-gbeaccd9-1_all.deb
+Files:
+ 5b10f0a7865129627ac9119403b83b9b 5272 net optional jibri_8.0-147-gbeaccd9-1_all.buildinfo
+ 86e181b5a132ce00bcc80d457f554ecc 44730260 net optional jibri_8.0-147-gbeaccd9-1_all.deb
