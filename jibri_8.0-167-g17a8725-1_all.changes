@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Fri, 20 May 2022 09:42:50 +0000
+Date: Fri, 20 May 2022 09:50:49 +0000
 Source: jibri
 Binary: jibri
 Architecture: all
@@ -15,11 +15,11 @@ Changes:
  .
    * Built from git. 17a8725
 Checksums-Sha1:
- f1cb835d320a5face8228213e335e63bd889474b 5278 jibri_8.0-167-g17a8725-1_all.buildinfo
- 6423270bd561d5a1f19fba0a16460401becd659f 44729072 jibri_8.0-167-g17a8725-1_all.deb
+ 0413745f0203ea20c4fe2c6212fb770c9e60f716 5278 jibri_8.0-167-g17a8725-1_all.buildinfo
+ ef49bfa0e8cc1d8ddffbcf930c8f496f9c4fd86c 44729924 jibri_8.0-167-g17a8725-1_all.deb
 Checksums-Sha256:
- 9ab133b378f2dd50dd624cc3f92de2b7960759913ceff64f296ce1efb0c642fa 5278 jibri_8.0-167-g17a8725-1_all.buildinfo
- 3f13acbc32562eb1a3247e14a54ef372a13a3a7ddeb14ca9524d56b164d82eb7 44729072 jibri_8.0-167-g17a8725-1_all.deb
+ eed9d1bc5612ce2f786c8151d9b0f3f9bc65a6132a1d1fc87d2aee67064ccffc 5278 jibri_8.0-167-g17a8725-1_all.buildinfo
+ 2aea52f8995fd05fb4b6f73bcf8c00e2e05dbf5d5412ec16e0b761aab9951828 44729924 jibri_8.0-167-g17a8725-1_all.deb
 Files:
- 2079a3a6b0f8735029daaa4a784c52df 5278 net optional jibri_8.0-167-g17a8725-1_all.buildinfo
- 508bb0ed90b2564f9914721b81c3c2b9 44729072 net optional jibri_8.0-167-g17a8725-1_all.deb
+ c629b68e09fc02536f6cb0c8b11d2002 5278 net optional jibri_8.0-167-g17a8725-1_all.buildinfo
+ 9b278074e622e2e39ea5b8ac796dd5f3 44729924 net optional jibri_8.0-167-g17a8725-1_all.deb

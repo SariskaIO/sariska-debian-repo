@@ -4,14 +4,14 @@ Binary: jibri
 Architecture: all
 Version: 8.0-167-g17a8725-1
 Checksums-Md5:
- 508bb0ed90b2564f9914721b81c3c2b9 44729072 jibri_8.0-167-g17a8725-1_all.deb
+ 9b278074e622e2e39ea5b8ac796dd5f3 44729924 jibri_8.0-167-g17a8725-1_all.deb
 Checksums-Sha1:
- 6423270bd561d5a1f19fba0a16460401becd659f 44729072 jibri_8.0-167-g17a8725-1_all.deb
+ ef49bfa0e8cc1d8ddffbcf930c8f496f9c4fd86c 44729924 jibri_8.0-167-g17a8725-1_all.deb
 Checksums-Sha256:
- 3f13acbc32562eb1a3247e14a54ef372a13a3a7ddeb14ca9524d56b164d82eb7 44729072 jibri_8.0-167-g17a8725-1_all.deb
+ 2aea52f8995fd05fb4b6f73bcf8c00e2e05dbf5d5412ec16e0b761aab9951828 44729924 jibri_8.0-167-g17a8725-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 20 May 2022 09:43:04 +0000
+Build-Date: Fri, 20 May 2022 09:51:02 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-programs
@@ -165,4 +165,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=2"
  LANG="C.UTF-8"
  LC_CTYPE="C.UTF-8"
- SOURCE_DATE_EPOCH="1653039770"
+ SOURCE_DATE_EPOCH="1653040249"
